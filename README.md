@@ -1,5 +1,5 @@
 # EntreSeñas
-EntreSeñas es un proyecto pensado para facilitar la comunicacion entre personas sordas que utilizan la Lenguaj de Señas Colombiana (LSC) y personas que no conocen esta lengua.
+EntreSeñas es un proyecto pensado para facilitar la comunicación entre personas sordas que utilizan la Lenguaj de Señas Colombiana (LSC) y personas que no conocen esta lengua.
 
 # Propósito
 En Colombia las barreras de comunicación pueden dificultar la interacción social y el acceso a la información de las personas sordas, como señala el Ministerio TIC. EntreSeñas busca aportar una herramienta que apoye la comunicación cuando una persona utiliza LSC y su interlocutor no la comprende.
