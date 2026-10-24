@@ -12,4 +12,6 @@ En Colombia las barreras de comunicación pueden dificultar la interacción soci
 
 # Enfoque
 El proyecto contempla un guante inteligente con ESP32 y sensores de flexión como punto de partida para estudiar el reconocimiento de señas. Su evolución plantea ampliar la captura de información y el procesamiento para incorporar los movimientos y otros componentes de la LSC.
+
+
 La meta es desarrollar una solución que pueda crecer mas allá del prototipo y llegar a utilizarse como apoyo en la comunicación diaria.
