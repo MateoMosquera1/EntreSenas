@@ -2,7 +2,7 @@
 Materiales y herramientas  para construir  y probar el guante.
 
 # Componentes 
- Material      Cantidad    Uso   
+| Material   |   Cantidad  |  Uso |  
 
 -  Placa ESP32| 1 | Leer los sensores y enviar los datos al computador 
 -  Sensores de flexion de 2,2 | 5 | registrar la flexión de los dedos 
